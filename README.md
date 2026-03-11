@@ -5,7 +5,7 @@ A complete, console-based Campus Management System (CMS) built in standard C++. 
 ## 🌟 Key Features
 
 * **Custom Graphical Console UI:** Built a dedicated frontend interface directly in the terminal using the Windows API (`gotoRowCol`, colored output, and shape rendering) for a professional user experience.
-* **Admin Security:** Password-protected portal entry to simulate secure access.
+* **Admin Security:** Password-protected portal entry to simulate secure access.--> 'itu123456'.
 * **Complete CRUD Operations:** Fully manage (Create, Read, Update, Delete) data across three core modules:
   * **Course Management:** Track course IDs, instructors, credit hours, and seat capacities.
   * **Student Management:** Track student records, departments, and active semesters.
@@ -14,7 +14,12 @@ A complete, console-based Campus Management System (CMS) built in standard C++. 
 * **Persistent Storage:** Utilizes C++ `fstream` to automatically save and load all records via text files (`courses.txt`, `students.txt`, `enrollments.txt`), ensuring zero data loss between sessions.
 
 ## 📸 Interface Preview
-*(Screenshot of the main CMS portal coming soon!)*
+<img width="1908" height="964" alt="Screenshot 2026-03-11 161053" src="https://github.com/user-attachments/assets/590fa9b3-3e64-4ab8-bdaa-89ca2e61af4d" />
+<img width="1897" height="958" alt="Screenshot 2026-03-11 161104" src="https://github.com/user-attachments/assets/33067a42-7aad-40cb-ad2d-1e4211719faf" />
+<img width="1893" height="964" alt="Screenshot 2026-03-11 161136" src="https://github.com/user-attachments/assets/613c1917-f235-4e86-956a-34f4ca7c6858" />
+
+
+
 
 ## 💻 Tech Stack & Concepts
 * **Language:** C++
