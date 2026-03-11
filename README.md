@@ -16,7 +16,7 @@ A complete, console-based Campus Management System (CMS) built in standard C++. 
 ## 📸 Interface Preview
 <img width="1908" height="964" alt="Screenshot 2026-03-11 161053" src="https://github.com/user-attachments/assets/590fa9b3-3e64-4ab8-bdaa-89ca2e61af4d" />
 <img width="1897" height="958" alt="Screenshot 2026-03-11 161104" src="https://github.com/user-attachments/assets/33067a42-7aad-40cb-ad2d-1e4211719faf" />
-<img width="1893" height="964" alt="Screenshot 2026-03-11 161136" src="https://github.com/user-attachments/assets/613c1917-f235-4e86-956a-34f4ca7c6858" />
+<img width="1901" height="962" alt="image" src="https://github.com/user-attachments/assets/def63d77-4c0e-40dc-afe5-2658567a5156" />
 
 
 
