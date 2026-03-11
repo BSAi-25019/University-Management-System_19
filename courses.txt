@@ -1,0 +1,4 @@
+3
+101|Data Structures|Bau Jee|3|40|25
+102|Programming|Sarfraz|40|50|30
+103|Politics|English|35|45|28
